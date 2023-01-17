@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"\u524d\u7aef","permalink":"/docs/tags/\u524d\u7aef","count":1},{"label":"javascript","permalink":"/docs/tags/javascript","count":1}]')}}]);

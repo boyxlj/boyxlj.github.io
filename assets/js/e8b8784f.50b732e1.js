@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8462],{1895:s=>{s.exports=JSON.parse('{"label":"javascript","permalink":"/docs/tags/javascript","allTagsPath":"/docs/tags","count":1,"items":[{"id":"\u524d\u7aef/doc-with-tags","title":"HTML\u57fa\u672c\u4f7f\u7528","description":"","permalink":"/docs/\u524d\u7aef/doc-with-tags"}]}')}}]);
